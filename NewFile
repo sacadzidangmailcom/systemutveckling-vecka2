@@ -1,0 +1,10 @@
+fråga 3 
+## 3. Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
+
+- **Samarbete med GitHub:** Flera personer kan arbeta på samma projekt online, dela kod och granska varandras ändringar.  
+
+- **Branch:** En kopia av projektet där du kan lägga till eller ändra något utan att påverka huvudversionen (main).  
+
+- **Pull Request (PR):** Begäran om att få slå ihop ändringar från din branch till main. PR används också för att granska kod innan ändringen tas in.  
+
+- **Merge:** När en pull request godkänns och dina ändringar blir en del av huvudprojektet (main).
