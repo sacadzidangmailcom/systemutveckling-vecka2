@@ -1,0 +1,30 @@
+# Systemutveckling - Vecka 2
+
+## 1. Skillnaden mellan vattenfallsmodellen och agil metodik
+
+### Vattenfallsmodellen
+- Planering: En stor, detaljerad plan görs på en gång.  
+- Process:
+  - Krav: Alla krav skrivs från början.  
+  - Design: Alla skärmar ritas upp direkt.  
+  - Kodning: All kod skrivs i ett svep.  
+  - Test: Test sker först när allt är färdigt.  
+  - Lansering: Appen släpps komplett till alla användare.  
+- Resultat:  
+  - Alla funktioner finns på plats vid lansering.  
+  - Ändringar efteråt är mycket svåra och kostsamma.  
+  - Fel som upptäcks kan innebära att man måste börja om från början.  
+
+### Agil metodik
+- Planering: Börja med de viktigaste funktionerna och planera stegvis.  
+- Process:
+  - Projektet delas upp i sprintar (små delar).  
+  - Exempel:
+    - Sprint 1: inloggning och uppladdning av bilder.  
+    - Sprint 2: följa andra och se flöde.  
+    - Sprint 3: direktmeddelanden.  
+    - Sprint 4: kommentarer och gilla-funktion.  
+  - Varje sprint testas och förbättras med hjälp av kundfeedback.  
+- Resultat:
+  - Flexibilitet – planerna kan ändras efter kundens behov.  
+  - Kontinuerlig förbättring och snabbare leverans av nytta.
