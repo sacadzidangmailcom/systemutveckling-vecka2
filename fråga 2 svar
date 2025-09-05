@@ -1,0 +1,9 @@
+## 2. Vad är ett Git-commit och varför är det viktigt?
+
+- Ett commit i Git är som att spara en version av ditt arbete lokalt på datorn.  
+- Varje commit innehåller en beskrivande text om vad som ändrats.  
+
+### Varför är commit viktigt?
+- Gör det möjligt att gå tillbaka om något blir fel.  
+- Låter dig se vad som ändrats och när.  
+- Underlättar samarbete – flera personer kan jobba parallellt utan att störa varandra.
